@@ -1,0 +1,54 @@
+.hahahah {
+  font-size: 15px;
+  line-height: 0px;
+  color: #ff6c40 !important;
+  font-weight: 700;
+  font-family: "Lato";
+  text-align: left;
+}
+
+.mdille-text {
+  font-size: 22px;
+  line-height: 0px;
+  color: #000000;
+  font-weight: 600;
+  font-family: "Lato";
+  text-align: left;
+}
+
+.button {
+  width: 124px;
+  height: 26px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: 1px solid #e85f37;
+  color: #ff0000;
+}
+
+.buttonprevcious {
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #000000;
+  color: white;
+}
+
+.footer-text {
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #525252;
+  font-weight: 400;
+  font-family: "Lato";
+  text-align: left;
+}
+
+.describe {
+  font-size: 15px;
+  color: #535353;
+  font-weight: 400;
+  font-family: "Open Sans";
+}
+
+/*# sourceMappingURL=style.css.map */

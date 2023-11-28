@@ -1,0 +1,49 @@
+@import"_variables.scss";
+.hahahah{
+
+  font-size: $font-size;
+  line-height: $line-height;
+  color: $color !important;
+  font-weight: $font-weight;
+  font-family: $font-family;
+  text-align: $text-align;
+}
+.mdille-text{
+  font-size: $font-size1;
+  line-height: $line-height1;
+  color: $color1;
+  font-weight: $font-weight1;
+  font-family: $font-family1;
+  text-align: $text-align1;
+}
+.button{
+  width: $width2;
+  height:$height2;
+  border-radius:$border-radius2;
+  background-color: $background-color2;
+  border: $border2;
+  color: #ff0000;
+}
+.buttonprevcious{
+  width: 100px;
+  height:  30px;
+  border-radius: $border-radius3;
+  background-color: $background-color3;
+  color:white;
+}
+.footer-text{
+  font-size: $font-size4;
+  letter-spacing: $letter-spacing4;
+  line-height: $line-height4;
+  text-transform: $text-transform4;
+  color: $color4;
+  font-weight: $font-weight4;
+  font-family: $font-family4;
+  text-align: $text-align4;
+}
+.describe{
+  font-size: 15px;
+  color: #535353;
+  font-weight: 400;
+  font-family: "Open Sans";
+}
